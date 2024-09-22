@@ -94,4 +94,8 @@ class MainActivity : AppCompatActivity() , SensorEventListener {
     override fun onAccuracyChanged(sensor: Sensor?, accuracy: Int) {
 
     }
+
+    fun ok () {
+
+    }
 }
